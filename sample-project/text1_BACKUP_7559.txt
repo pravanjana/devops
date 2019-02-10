@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-test22.txt
-text1.txt
-=======
-text221.txt
->>>>>>> newfeature2
